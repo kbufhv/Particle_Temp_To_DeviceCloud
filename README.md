@@ -1,6 +1,6 @@
 # Particle_Temp_To_DeviceCloud
 
-A Particle project named Particle_Temp_To_DeviceCloud
+A Particle project to use the data gathered by the temperature and humidity sensor in connection the Particle Device Cloud.
 
 ## Welcome to your project!
 
